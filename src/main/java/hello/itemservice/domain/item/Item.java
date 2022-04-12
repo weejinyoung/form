@@ -15,6 +15,7 @@ public class Item {
     private Boolean open;
     private List<String> regions;
     private ItemType itemType;
+    private String deliveryType;
 
     public Item() {
     }
